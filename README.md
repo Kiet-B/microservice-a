@@ -5,7 +5,6 @@ Microservice A for CS 361 Teammate
 ## Requirements
 
 ```python
-pip install Flask
 pip install requests
 ```
 

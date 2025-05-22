@@ -2,6 +2,15 @@ Microservice A for CS 361 Teammate
 
 # Communication Contract
 
+## Requirements
+
+```python
+pip install Flask
+pip install requests
+```
+
+##
+
 Port: 12345
 
 ### **Add/Remove/Update**
